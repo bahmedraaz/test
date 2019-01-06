@@ -1,3 +1,6 @@
 hello
 if you like junk food:
 	eat burger
+else:
+	if you are thirsty:
+		drink soda
