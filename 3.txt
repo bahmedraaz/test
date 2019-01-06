@@ -5,3 +5,4 @@ if you like junk food:
 	eat cake
 else:
 	drink water
+	drink soda
