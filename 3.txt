@@ -3,3 +3,4 @@ if you like junk food:
 	eat burger
 	eat fries
 else:
+	drink water
