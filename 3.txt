@@ -1,0 +1,3 @@
+hello
+if you like junk food:
+	eat burger
