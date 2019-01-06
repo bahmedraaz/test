@@ -2,5 +2,6 @@ hello
 if you like junk food:
 	eat burger
 	eat fries
+	eat cake
 else:
 	drink water
