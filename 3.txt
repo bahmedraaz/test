@@ -2,4 +2,3 @@ hello
 if you like junk food:
 	eat burger
 else:
-	drink water
