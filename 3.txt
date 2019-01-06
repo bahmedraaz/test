@@ -4,3 +4,4 @@ if you like junk food:
 	eat fries
 else:
 	drink water
+	drink soda
